@@ -18,12 +18,12 @@
 
 ## 📂 برخی پروژه‌ها
 
-| عنوان پروژه | تکنولوژی‌ها | دمو |
-|-------------|-------------|------|
-| Note App | HTML, CSS, JS | [مشاهده](https://mehranazaran.github.io/NoteApp) |
-| Hotel UI | React, Tailwind | [مشاهده](https://...) |
-| Portfolio | React, Vite | [مشاهده](https://...) |
-
+| عنوان پروژه | تکنولوژی‌ها | لینک گیت‌هاب |
+|-------------|-------------|-------------------------------|
+| Tailwind Portfolio | HTML, Tailwind CSS | [مشاهده](https://github.com/mehranazaran/Tailwind-Css-Portfolio) |
+| Note App (JavaScript) | HTML, CSS, JS | [مشاهده](https://github.com/mehranazaran/JavaScript-Work-Sample) |
+| Responsive Portfolio | HTML, CSS | [مشاهده](https://github.com/mehranazaran/Responsive-Web-Design-Course-Portfolio) |
+| Ricketts Redux Portfolio | React, Redux, Tailwind | [مشاهده](https://github.com/mehranazaran/Ricketts-and-Redux-Portfolio) |
 ---
 
 ## 📫 ارتباط با من
