@@ -1,3 +1,5 @@
+[![GitHub followers](https://img.shields.io/github/followers/mehranazaran?label=Follow&style=social)](https://github.com/mehranazaran)
+
 # 👋 سلام، من مهران هستم
 
 🎯 توسعه‌دهنده فرانت‌اند با تمرکز روی React و Tailwind CSS  
